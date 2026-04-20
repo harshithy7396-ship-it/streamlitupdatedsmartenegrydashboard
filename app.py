@@ -62,4 +62,4 @@ else:
         "Predicted": preds,
         "Optimized": optimized
     }))
-if st.button("Run Model"):
+
